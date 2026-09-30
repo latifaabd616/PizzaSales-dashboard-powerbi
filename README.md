@@ -18,20 +18,16 @@ This project is an interactive **Dashboard** built using **Power BI** to analyze
 
 ## 📸 Dashboard Preview
 
-### 📊 Overview
-![Overview](images/overview.png)
+![Overview](https://github.com/latifaabd616/PizzaSales-dashboard-powerbi/blob/main/images/overview.png?raw=true)
 
-### 💰 Sales Details
-![Sales Details](images/sales.png)
+![Sales Details](https://github.com/latifaabd616/PizzaSales-dashboard-powerbi/blob/main/images/Sales%20details.png?raw=true)
 
-### ⏰ Order Details by Hour
-![Order Details by Hour](images/orders.png)
+![Order Details by Hour](https://github.com/latifaabd616/PizzaSales-dashboard-powerbi/blob/main/images/Order%20details%20by%20hour.png?raw=true)
 
-### 📅 Monthly Performance
-![Monthly Performance](images/monthly.png)
+![Monthly Performance](https://github.com/latifaabd616/PizzaSales-dashboard-powerbi/blob/main/images/Monthly%20performance.png?raw=true)
 
-### 🎛️ Interactions Panel
-![Interactions Panel](images/interactions.png)
+![Interactions Panel](https://github.com/latifaabd616/PizzaSales-dashboard-powerbi/blob/main/images/Interactions%20panel.png?raw=true)
+
 
 ---
 
