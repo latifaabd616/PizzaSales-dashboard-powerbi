@@ -22,16 +22,16 @@ This project is an interactive **Dashboard** built using **Power BI** to analyze
 ![Overview](images/overview.png)
 
 ### 💰 Sales Details
-![Sales Details](images/Sales%20details.png)
+![Sales Details](images/sales.png)
 
 ### ⏰ Order Details by Hour
-![Order Details by Hour](images/Order%20details%20by%20hour.png)
+![Order Details by Hour](images/orders.png)
 
 ### 📅 Monthly Performance
-![Monthly Performance](images/Monthly%20performance.png)
+![Monthly Performance](images/monthly.png)
 
 ### 🎛️ Interactions Panel
-![Interactions Panel](images/Interactions%20panel.png)
+![Interactions Panel](images/interactions.png)
 
 ---
 
